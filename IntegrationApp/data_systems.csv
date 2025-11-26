@@ -1,0 +1,21 @@
+System Name,Description,Group,Color
+UMO,,Automated Fare Collection System (AFCS),#4B4B4B
+Moneris,,Automated Fare Collection System (AFCS),#4B4B4B
+Synapse Warehouse,,Enterprise Data and Analytics (EDA),#4B4B4B
+Lakehouse,,Enterprise Data and Analytics (EDA),#4B4B4B
+Finance,,Finance Group,#4B4B4B
+JDE,,Enterprise Resource Planning (ERP),#4B4B4B
+Trapeze,,Transportation Management,#4B4B4B
+Hastus,,Scheduling and Planning,#4B4B4B
+CMS Better Fleet,,Maintenance and Fleet Management,#4B4B4B
+CONSAT,,Telemetry Data,#4B4B4B
+Azure Account,,Azure Cloud,#4B4B4B
+Network Drive,,BC Transit,#4B4B4B
+Hubble,,Reporting Tool,#4B4B4B
+Crystal Report,,Reporting Tool,#4B4B4B
+PowerBI,,Reporting Tool,#4B4B4B
+EFAT Raw Data,EFAT Raw Data - Azure Account,Enterprise Data and Analytics (EDA),#D3D3D3
+CONSAT Raw Data,Consat Raw Data - Azure Account,Enterprise Data and Analytics (EDA),#D3D3D3
+Dilax,,Telemetry Data,#D3D3D3
+Dilax Raw Data,,Telemetry Data,#D3D3D3
+Operational Process,,Enterprise Data and Analytics (EDA),#D3D3D3
